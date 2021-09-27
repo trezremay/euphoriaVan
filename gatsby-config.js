@@ -6,9 +6,9 @@ module.exports = {
       summary: `who live in the UK, love to travel and are currently converting VW T5 into a campervan.`,
     },
     description: `Our journey through a camper conversion and living with it.`,
-    siteUrl: ``,
+    Url: `https://hardcore-einstein-31f9fd.netlify.app`,
     social: {
-      twitter: `euphoriaa.van`,
+      twitter: `van.euphoriaa`,
     },
   },
   plugins: [
